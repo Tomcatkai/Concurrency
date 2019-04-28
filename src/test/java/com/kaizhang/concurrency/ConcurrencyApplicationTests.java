@@ -1,4 +1,4 @@
-package com.kaizhang.concurrency.concurrency;
+package com.kaizhang.concurrency;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
